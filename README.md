@@ -3,8 +3,12 @@
 Este proyecto tiene como finalidad aplicar los conocimientos adquiridos sobre Azure, Databricks (Pyspark). Realizando un proyecto de Ingeniería de Datos.
 
 ## Arquitectura
-
 [![Arquitectura](https://i.postimg.cc/TPCvpdvc/Arquitectura-Data-Pipeline-Azure-Databricks-Py-Spark-drawio-1.png)](https://postimg.cc/SX2vPpsX)
+
+## Explicación en video youtube (dale click)
+[![Alt text](https://img.youtube.com/vi/Qorw1uWS53Y/0.jpg)](https://www.youtube.com/watch?v=Qorw1uWS53Y)
+
+
 
 ## Escenario
 La empresa AFTO necesita analizar las ventas de su operación. Para ello se realizo un Datamart sobre su Base de datos transaccional. Se utilizo los servicios de Azure para realizar el proyecto.
